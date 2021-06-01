@@ -1,6 +1,6 @@
 # Yosemite
 
-Merhabalar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot kodluyorum. Github hesabımda sizlere yardımcı olabileceğini düşündüğüm kodlar paylaşacağım, umarım yardımcı olur :)
+Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot kodluyorum. Github hesabımda sizlere yardımcı olabileceğini düşündüğüm kodlar paylaşacağım, umarım yardımcı olur :)
 <p align = "center">
   Bana ulaşabileceğiniz platformlar:
 </p>
