@@ -1,7 +1,9 @@
 # Yosemite
 
 Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot kodluyorum. Github hesabımda sizlere yardımcı olabileceğini düşündüğüm kodlar paylaşacağım, umarım yardımcı olur :)
-
+<p align = "center">
+ BAĞLANTILAR
+ <p/>
 <p align = "center">
 <a href="https://discord.com/users/749609138249793557" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
  <a href="https://open.spotify.com/user/zo5ytyn03llgkjrfc09rs5cvw?si=c4f3a718ce104c00" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
