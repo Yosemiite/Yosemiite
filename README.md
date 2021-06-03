@@ -17,8 +17,8 @@ Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot ko
 <img src="https://profile-counter.glitch.me/{yosemiite}/count.svg" />
 </p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yosemiite&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosemiite&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+
+<a href="https://github.com/yosemiite">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosemiite&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosemiite&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
+</a>
