@@ -1,8 +1,8 @@
 # Yosemite
 
-Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot kodluyorum. Github hesabımda sizlere yardımcı olabileceğini düşündüğüm kodlar paylaşacağım, umarım yardımcı olur :)
-<p align = "center">
-💻 BAĞLANTILAR
+Hello, my name is Emre. I am 17 years old. I started software development 1 year ago by developing Discord bots.<p align = "center">
+
+💻 CONNECTIONS
  <p/>
 <p align = "center">
 <a href="https://discord.com/users/749609138249793557" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -11,7 +11,7 @@ Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot ko
  </p>
 
 <p align = "center">
- Profile tıklayan kişi sayısı:
+ Number of people who visited the profile:
 </p>
 <p align = "center">
 <img src="https://profile-counter.glitch.me/{yosemiite}/count.svg" />
