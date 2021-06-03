@@ -1,6 +1,8 @@
 # Yosemite
 
 Hello, my name is Emre. I am 17 years old. I started software development 1 year ago by developing Discord bots.<p align = "center">
+ 
+ 
 <p align = "center">
 💻 CONNECTIONS
  <p/>
