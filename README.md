@@ -1,7 +1,3 @@
-# Yosemite
-
-Hello, my name is Emre. I am 17 years old. I started software development 1 year ago by developing Discord bots.<p align = "center">
-
 # 💻 CONNECTIONS
 <p align = "center">
 <a href="https://discord.com/users/749609138249793557" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -9,6 +5,7 @@ Hello, my name is Emre. I am 17 years old. I started software development 1 year
 <a href="https://www.instagram.com/animegirlshateu" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
 
+# 📝 Github Stats
 <p align = "center">
  Number of people who visited the profile:
 </p>
