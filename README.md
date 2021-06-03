@@ -4,7 +4,7 @@ Hello, my name is Emre. I am 17 years old. I started software development 1 year
  
  
 <p align = "center">
-💻 **CONNECTIONS**
+💻 CONNECTIONS
  <p/>
 <p align = "center">
 <a href="https://discord.com/users/749609138249793557" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
