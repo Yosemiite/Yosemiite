@@ -16,7 +16,7 @@ Hello, my name is Emre. I am 17 years old. I started software development 1 year
  Number of people who visited the profile:
 </p>
 <p align = "center">
-<img src="https://profile-counter.glitch.me/{yosemiite}/count.svg=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF" />
+<img src="https://profile-counter.glitch.me/{yosemiite}/count.svg=true&text_color=FFFFFF" />
 </p>
 
 
