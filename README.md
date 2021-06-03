@@ -1,11 +1,9 @@
-# 👋 Hi, im Emre (Yosemite)
 <p align = "center">
 <a href="https://discord.com/users/749609138249793557" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
  <a href="https://open.spotify.com/user/zo5ytyn03llgkjrfc09rs5cvw?si=c4f3a718ce104c00" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/animegirlshateu" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
 
-# 📝 Github Stats
 <p align = "center">
  Number of people who visited the profile:
 </p>
