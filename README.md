@@ -10,13 +10,11 @@ Selamlar ben Emre (Yosemite) yaklaşık 1 yıldır discord uygulamasında bot ko
 <a href="https://www.instagram.com/animegirlshateu" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
 
-## Github (yosemiite) Stats
-
 <p align = "center">
  Profile tıklayan kişi sayısı:
 </p>
 <p align = "center">
-<img src="https://profile-counter.glitch.me/{keixyz}/count.svg" />
+<img src="https://profile-counter.glitch.me/{yosemiite}/count.svg" />
 </p>
 
 <div align="center">
