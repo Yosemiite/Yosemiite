@@ -1,6 +1,6 @@
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/961263708510748673?hideDiscrim=true)](https://discord.com/users/961263708510748673)
-
+<p align = "center">
+<a href="https://discord.com/users/961263708510748673"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
 
 <p align = "center">
  Number of people who visited the profile:
