@@ -1,6 +1,6 @@
-<p align = "center">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/961263708510748673?hideDiscrim=true)](https://discord.com/users/961263708510748673)
- </p>
+
 
 <p align = "center">
  Number of people who visited the profile:
