@@ -1,5 +1,5 @@
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/961263708510748673?hideDiscrim=true)](https://discord.com/users/961263708510748673)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/961263708510748673?hideDiscrim=true)](https://discord.com/users/961263708510748673)]
 
 
 <p align = "center">
